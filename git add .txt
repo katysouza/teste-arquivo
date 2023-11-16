@@ -1,0 +1,16 @@
+git add 
+git commit -m "messagem"
+git push
+
+git pull
+git status
+
+git init (criar um repositorio)
+
+git pull origin master (puxar tudo da master)
+
+git branch (saber onde branch esta)
+
+
+git rm --cached login.html   (para nao mostrar no github)
+git reset -- hard (apaga oq foi baixado)
